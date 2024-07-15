@@ -1,0 +1,12 @@
+{
+  "OrderID": 1,
+  "Address": "Calle Falsa 123, Springfield",
+  "Status": "En proceso",
+  "Articles": [
+    {
+      "Name": "paquete",
+      "Quantity": 1,
+      "Dangerous": false
+    }
+  ]
+}
